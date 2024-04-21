@@ -6,6 +6,7 @@
 </head>
 <body>
     <header>
+        <img src="https://raw.githubusercontent.com/iniiidiniiii/iniiidiniiii/main/dini.jpg" alt="dini" width="400px"></img>
         <h1>Dini Setia Wati</h1>
     </header>
     <section>
