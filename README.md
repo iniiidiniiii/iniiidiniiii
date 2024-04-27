@@ -25,18 +25,8 @@
         </ul>
          <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>motivé</title>
     <style>
-        body {
-            font-family: MonoLisa, sans-serif;
-            text-align: center;
-            background-color: #f4f4f4;
-            padding: 50px;
-       {
-    </style>
-</head>
-<body>
-    <div class="quote">
+     <h2>motivé</h2>
         "On passe notre temps à aimer des souvenirs qui, eux, nous oublient. Chaque grain de nostalgie est un rétrécissement du chemin nous menant à la mort"
     </div>
     <div class="author">
