@@ -23,6 +23,36 @@
             <li><a href="https://www.instagram.com/diniiiiiii.1">Instagram</a></li>
             <li><a href="https://www.linkedin.com/in/dini-setia-wati-702564275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a></li>
         </ul>
+         <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>motivé</title>
+    <style>
+        body {
+            font-family: MonoLisa, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 50px;
+        }
+        .quote {
+            font-size: 24px;
+            color: #333;
+            margin-bottom: 20px;
+        }
+        .author {
+            font-style: italic;
+            color: #666;
+        }
+    </style>
+</head>
+<body>
+    <div class="quote">
+        "On passe notre temps à aimer des souvenirs qui, eux, nous oublient. Chaque grain de nostalgie est un rétrécissement du chemin nous menant à la mort"
+    </div>
+    <div class="author">
+        - Foenkinos
+    </div>
+</body>
+</html>
     </section>
 </body>
 </html>
