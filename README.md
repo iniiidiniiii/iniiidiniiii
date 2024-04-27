@@ -25,8 +25,7 @@
         </ul>
          <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>
-     <h2>motivé</h2>
+     <h2>~Motivé~</h2>
         "On passe notre temps à aimer des souvenirs qui, eux, nous oublient. Chaque grain de nostalgie est un rétrécissement du chemin nous menant à la mort"
     </div>
     <div class="author">
