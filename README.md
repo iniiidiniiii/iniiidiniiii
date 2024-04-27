@@ -7,7 +7,7 @@
 <body>
     <header>
         <img src="https://raw.githubusercontent.com/iniiidiniiii/iniiidiniiii/main/dini2.jpg" alt="dini" width="400px" style="margin: auto"></img>
-        <h1>Dini Setia Wati</h1>
+        <h1>~Dini Setia Wati~</h1> 
     </header>
     <section>
         <h2>Pendidikan</h2>
