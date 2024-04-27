@@ -32,16 +32,7 @@
             text-align: center;
             background-color: #f4f4f4;
             padding: 50px;
-        }
-        .quote {
-            font-size: 24px;
-            color: #333;
-            margin-bottom: 20px;
-        }
-        .author {
-            font-style: italic;
-            color: #666;
-        }
+       {
     </style>
 </head>
 <body>
