@@ -11,11 +11,11 @@
     </header>
     <section>
         <h2>Pendidikan</h2>
-        <p>S1 Pendidikan Bahasa Perancis</p>
+        <p>S1 Pendidikan Bahasa Perancis (Universitas Negeri Jakarta) </p>
     </section>
     <section>
         <h2>Pengalaman</h2>
-        <p>Juara 1 Financial Planning (2020)</p>
+        <p>Juara 1 Financial Planning IDX (2020)</p>
     </section>
     <section>
         <h2>Media Sosial</h2>
