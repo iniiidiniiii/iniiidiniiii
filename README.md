@@ -23,6 +23,8 @@
         <ul>
             <li><a href="https://www.instagram.com/diniiiiiii.1">Instagram</a></li>
             <li><a href="https://www.linkedin.com/in/dini-setia-wati-702564275?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a></li>
+            <li><a
+href="https://wa.me/087864988159"> Whatsapp</a><li>
         </ul>
          <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
