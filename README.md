@@ -18,6 +18,7 @@
         <h2>Pengalaman</h2>
         <p>Juara 1 Financial Planning IDX (2020)</p>
         <p>1st place in Financial Planning Competition organized by IDX in 2020:
+
 - Developed a comprehensive financial plan that emphasized on optimal investment strategy and risk management.
             
 - Analyzed various investment instruments to identify the best opportunities that fit the risk profile.
