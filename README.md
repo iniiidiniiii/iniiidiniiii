@@ -11,6 +11,7 @@
     </header>
     <section>
         <h2>Pendidikan</h2>
+        <p> SMAN 68 Jakarta Pusat (IPS) </p>
         <p>S1 Pendidikan Bahasa Perancis (Universitas Negeri Jakarta) </p>
     </section>
     <section>
