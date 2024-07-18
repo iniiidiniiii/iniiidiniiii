@@ -7,7 +7,10 @@
 <body>
     <header>
         <img src="https://telegra.ph/file/d5493eb6dc1c16b630149.jpg" alt="dini" width="400px" style="margin: auto"></img>
-        <h1>~Dini Setia Wati~</h1> 
+        <h1>~Dini Setia Wati~</h1>
+        <p>
+"Hi! I'm a fifth-semester student majoring in French Language, actively involved in various organizational activities in Jakarta. I have the ability to speak publicly in multiple languages, including both local and international ones. I enjoy exploring new opportunities, and I'm known for being disciplined, honest, and trustworthy."
+</p>
     </header>
     <section>
         <h2>Pendidikan</h2>
@@ -28,6 +31,13 @@
 - Worked closely with the team to evaluate and devise innovative solutions to financial challenges presented in the competition.
 
 - Demonstrated effective communication skills and mastery of material in a competitive situation, showing expertise in conveying complex ideas in an easy-to-understand manner.</p>
+<p>La Semaine Française (2022-2023) Logistic
+
+Organized and supervised the setup and teardown of event venues, ensuring that all materials, equipment, and decor were properly arranged and dismantled.
+</p>
+<p>Emina Eureka Fest (2024) Eureka Assistant Specialist
+
+being in charge of answering all the questions asked by the participants, this trained my problem-solving skills and improved my communication knowledge.</p>
     </section>
     <section>
         <h2>Media Sosial</h2>
