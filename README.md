@@ -6,7 +6,7 @@
 </head>
 <body>
     <header>
-        <img src="https://telegra.ph/file/baa188d56c7b423e967c5.jpg" alt="dini" width="400px" style="margin: auto"></img>
+        <img src="https://telegra.ph/file/d5493eb6dc1c16b630149.jpg" alt="dini" width="400px" style="margin: auto"></img>
         <h1>~Dini Setia Wati~</h1> 
     </header>
     <section>
